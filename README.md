@@ -2,6 +2,11 @@
 
 Aiplora is a versatile AI chat platform that provides access to multiple language models and AI assistants in one unified interface. Similar to platforms like Poe, it offers a seamless experience for interacting with various AI models including GPT-4, Claude, Gemini Pro, and more.
 
+<br>
+
+
+<br>
+
 ## Key Features
 
 - **Multiple AI Models**: Access to various AI models including:
@@ -13,7 +18,6 @@ Aiplora is a versatile AI chat platform that provides access to multiple languag
 
 - **Real-time Interactions**:
   - Server-Sent Events (SSE) for streaming responses
-  - Real-time message updates
   - Instant model switching
 
 - **Conversation Management**:
@@ -34,14 +38,11 @@ Aiplora is a versatile AI chat platform that provides access to multiple languag
   - React.js
   - Redux for state management
   - TailwindCSS for styling
-  - Socket.io-client for real-time features
 
 - **Backend**:
   - Node.js
   - Express.js
   - MongoDB for data persistence
-  - Redis for caching
-  - Socket.io for real-time communication
 
 ## Prerequisites
 
@@ -93,27 +94,8 @@ npm start
 3. Select your preferred AI model
 4. Start chatting and enjoy the features!
 
-## Contributing
-
-We welcome contributions to Aiplora! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-- Your Name - [@yourusername](https://twitter.com/yourusername)
-- Project Link: [https://github.com/yourusername/aiplora](https://github.com/yourusername/aiplora)
-
-## Acknowledgments
-
-- Thanks to all AI model providers
-- Inspired by platforms like Poe
-- All contributors who help improve the platform
