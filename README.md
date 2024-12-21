@@ -4,9 +4,9 @@ Aiplora is a versatile AI chat platform that provides access to multiple languag
 
 <br>
 <p align="center">
-  <a href="https://yourdomain.com" target="_blank">
+
     <img src="https://github.com/Sahira100/Aiplora/blob/main/aiplora.gif" alt="Demonstarion"  />
-  </a>
+
 </p>
 
 
