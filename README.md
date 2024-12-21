@@ -9,7 +9,7 @@
 
 **Aiplora is your gateway to multiple AI models in one elegant interface. Experience seamless conversations with leading AI models including GPT-4, Claude, and Gemini Pro.**
 
-[Features](#key-features) • [Technology Stack](#technology-stack) • [Installation](#installation) • [Usage](#usage)
+<br>
 
 </div>
 
