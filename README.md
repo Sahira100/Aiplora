@@ -1,6 +1,9 @@
 # Aiplora - Multi-Model AI Chatbot Platform
 
+<p align="center">
+
 Aiplora is a versatile AI chat platform that provides access to multiple language models and AI assistants in one unified interface. Similar to platforms like Poe, it offers a seamless experience for interacting with various AI models including GPT-4, Claude, Gemini Pro, and more.
+    </p>
 
 <br>
 <p align="center">
