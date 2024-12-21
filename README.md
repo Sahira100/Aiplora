@@ -20,8 +20,7 @@ Aiplora is a powerful and versatile chatbot application that integrates multiple
 <div align="center">
 
 <br>
-👇👇👇👇👇
-[Watch Demo Video](https://www.youtube.com/watch?v=UiZTiYObXNE)
+📹 [Watch Demo Video](https://www.youtube.com/watch?v=UiZTiYObXNE)
   
 </div>
 
