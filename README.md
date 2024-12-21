@@ -3,7 +3,24 @@
 Aiplora is a versatile AI chat platform that provides access to multiple language models and AI assistants in one unified interface. Similar to platforms like Poe, it offers a seamless experience for interacting with various AI models including GPT-4, Claude, Gemini Pro, and more.
 
 <br>
-
+<p align="center">
+  <a href="https://yourdomain.com" target="_blank">
+    <img src="/api/placeholder/400/320" alt="Aiplora logo" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius: 8px; margin: 20px 0;" width="418px" />
+  </a>
+</p>
+<h3 align="center">Multiple Models · Real-time Chat · Complete Features</h3>
+<p align="center">A versatile AI chat platform providing seamless access to multiple language models including GPT-4, Claude, Gemini Pro, and more</p>
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/github/stars/yourusername/aiplora?style=flat" alt="stars" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/github/forks/yourusername/aiplora?style=flat" alt="forks" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/github/license/yourusername/aiplora?style=flat" alt="license" />
+  </a>
+</p>
 
 <br>
 
