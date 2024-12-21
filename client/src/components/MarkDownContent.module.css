@@ -1,0 +1,89 @@
+.markDownContent {
+  line-height: 2rem;
+}
+
+.markDownContent code {
+  background-color: #f5f5f5; /* Light gray background for better contrast */
+  color: black; /* Highlight color for code text */
+  padding: 0.2em 0.4em; /* Add some padding around the code */
+  border-radius: 4px; /* Rounded corners for a cleaner look */
+  font-size: 0.95em; /* Adjust font size to make it fit well */
+  line-height: 2; /* Custom line height */
+  font-weight: bold;
+  display: inline-block;
+}
+
+.markDownContent ul {
+  list-style-type: disc;
+
+  padding-left: 20px;
+  margin: 20px 0px;
+}
+
+.markDownContent ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+  margin: 20px 0px;
+}
+
+.markDownContent li {
+  margin-bottom: 5px;
+}
+
+.markDownContent th,
+.markDownContent td {
+  border: 1px solid #ddd; /* Adds border to table cells */
+  padding: 12px; /* Adds padding inside the cells */
+  text-align: left; /* Aligns text to the left */
+}
+
+.markDownContent th {
+  background-color: #f2f2f2; /* Light gray background for headers */
+  font-weight: bold; /* Bold font for headers */
+}
+
+.markDownContent tr:nth-child(even) {
+  background-color: #f9f9f9; /* Zebra striping for even rows */
+}
+
+.markDownContent tr:hover {
+  background-color: #f1f1f1; /* Highlight row on hover */
+}
+
+.markDownContent pre code {
+  border-radius: 10px;
+  margin: 20px 0px;
+}
+
+.markDownContent a {
+  color: #007bff; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+.markDownContent li code {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.markDownContent a:hover {
+  color: #0056b3; /* Darker color on hover */
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Style unordered list markers */
+.markDownContent ul li::marker {
+  font-size: 1.2em; /* Adjust marker size */
+  font-weight: bolder; /* Make marker bold */
+}
+
+/* Style ordered list markers */
+.markDownContent ol li::marker {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+/* Optional: Custom marker styles for code blocks */
+.markDownContent pre ul li::marker,
+.markDownContent pre ol li::marker {
+  color: #8a2be2; /* Color for markers in code blocks */
+}
