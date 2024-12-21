@@ -1,4 +1,4 @@
-# 🤖 Aiplora - Multi-Model AI Chatbot Platform
+# Aiplora - Multi-Model AI Chatbot Platform
 
 <div align="center">
 
@@ -15,9 +15,9 @@
 
 ![Aiplora Demo](https://github.com/Sahira100/Aiplora/blob/main/aiplora.gif)
 
-## 🌟 Key Features
+## Key Features
 
-### 🤖 Supported AI Models
+### Supported AI Models
 <div align="center">
 <table>
 <tr>
@@ -28,7 +28,7 @@
 </table>
 </div>
 
-### 💫 Core Capabilities
+### Core Capabilities
 
 - **Real-time Interactions**
   - Streaming responses via Server-Sent Events (SSE)
@@ -47,7 +47,7 @@
   - Flexible credit top-up options
   - Detailed usage statistics
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend Technologies
 <div align="center">
@@ -72,14 +72,14 @@
 </table>
 </div>
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - Node.js v16 or higher
 - MongoDB database
 - Redis server
 - API keys for supported AI models
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**
 ```bash
@@ -115,18 +115,18 @@ cd client
 npm start
 ```
 
-## 📝 Usage
+## Usage
 
 1. Create an account or sign in to your existing account
 2. Add credits to your account balance
 3. Choose your preferred AI model from the available options
-4. Start engaging in conversations with advanced AI models!
+4. Start engaging in conversations with advanced AI models
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 <div align="center">
-Made with ❤️ by the Aiplora Team
+Developed by Aiplora Team
 </div>
