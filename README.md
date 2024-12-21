@@ -16,6 +16,8 @@ Aiplora is a powerful and versatile chatbot application that integrates multiple
 ![Aiplora Demo](https://github.com/Sahira100/Aiplora/blob/main/aiplora.gif)
 
 
+[![Watch the video](https://github.com/Sahira100/Aiplora/blob/main/aiplora.gif)](https://www.youtube.com/watch?v=UiZTiYObXNE)
+
 <br>
 [Watch Demo Video](https://www.youtube.com/watch?v=UiZTiYObXNE)
 
