@@ -11,6 +11,8 @@ Aiplora is a powerful and versatile chatbot application that integrates multiple
 
 </div>
 
+<br>
+<br>
 <div align="center">
   <img src="https://github.com/Sahira100/Aiplora/blob/main/aiplora.gif" alt="Aiplora Demo">
 </div>
@@ -20,6 +22,9 @@ Aiplora is a powerful and versatile chatbot application that integrates multiple
 [Watch Demo Video](https://www.youtube.com/watch?v=UiZTiYObXNE)
   
 </div>
+
+<br>
+<br>
 
 ## Key Features
 
@@ -34,4 +39,102 @@ Aiplora is a powerful and versatile chatbot application that integrates multiple
 </table>
 </div>
 
-[Rest of the content remains the same...]
+### Core Capabilities
+
+- **Real-time Interactions**
+  - Streaming responses via Server-Sent Events (SSE)
+  - Instant model switching capability
+  - Responsive interface with minimal latency
+
+- **Smart Conversation Management**
+  - Edit messages on the fly
+  - Clear conversation context/history
+  - Selective message deletion
+  - Automatic conversation persistence
+
+- **Advanced Credit System**
+  - Token-based usage tracking
+  - Per-model usage analytics
+  - Flexible credit top-up options
+  - Detailed usage statistics
+
+## Technology Stack
+
+### Frontend Technologies
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></td>
+</tr>
+</table>
+</div>
+
+### Backend Infrastructure
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></td>
+<td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></td>
+</tr>
+</table>
+</div>
+
+## Prerequisites
+
+- Node.js v16 or higher
+- MongoDB database
+- Redis server
+- API keys for supported AI models
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/aiplora.git
+cd aiplora
+```
+
+2. **Install dependencies**
+```bash
+# Frontend dependencies
+cd client
+npm install
+
+# Backend dependencies
+cd ../server
+npm install
+```
+
+3. **Configure environment**
+```bash
+# Set up environment files
+cp .env.example .env
+```
+
+4. **Launch development servers**
+```bash
+# Start backend
+cd server
+npm run dev
+
+# Start frontend
+cd client
+npm start
+```
+
+## Usage
+
+1. Create an account or sign in to your existing account
+2. Add credits to your account balance
+3. Choose your preferred AI model from the available options
+4. Start engaging in conversations with advanced AI models
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
