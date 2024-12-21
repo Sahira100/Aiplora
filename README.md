@@ -1,4 +1,7 @@
+<div align="center">
 # Aiplora - Multi-Model AI Chatbot Platform
+
+</div>
 
 <div align="center">
 
